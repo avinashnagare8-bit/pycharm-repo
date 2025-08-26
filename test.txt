@@ -1,0 +1,5 @@
+id,name,sal
+101,Avinash,55000
+102,Rahul,62000
+103,Neha,71000
+104,Meera,48000
